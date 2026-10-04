@@ -1,16 +1,20 @@
-## Hi there 👋
+# João Vitor B. Portela
 
-<!--
-**joaovitorportela-dev/joaovitorportela-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student and Software Developer
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering student
+- 💻 Full Stack Developer
+- 🚀 Interested in Backend, Cloud and Software Architecture
+- 🛠️ Technologies: Go, Python, TypeScript, JavaScript, Java, React, Vue, PostgreSQL, SQLite, Docker
+
+## Projects
+
+This profile contains technical challenges, projects and implementations developed for professional opportunities
+
+## Personal GitHub
+
+For academic projects, personal experiments and other repositories:
+
+👉 [github.com/joaovitorbolognezi](https://github.com/joaovitorbolognezi)
